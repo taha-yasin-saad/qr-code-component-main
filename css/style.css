@@ -1,0 +1,34 @@
+body {
+  font-family: "Outfit", sans-serif;
+}
+.qrCode {
+  border-radius: 10px;
+  width: 328px;
+  margin: auto;
+}
+.title {
+  font-weight: 700;
+  text-align: center;
+  font-size: x-large;
+  padding: 5px 20px;
+}
+.paragraph {
+  font-weight: 400;
+  text-align: center;
+  padding: 5px 25px;
+}
+
+.lightGrayBackground {
+  background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+  /* display: flex; */
+  /* flex-direction: column; */
+  width: 330px;
+  background-color: hsl(0, 0%, 100%);
+  margin: auto;
+  margin-top: 200px;
+  padding: 18px;
+  border-radius: 20px;
+}
